@@ -12,5 +12,5 @@ ECHO > script.js
 cd ..
 ECHO > index.html
 copy HTML.txt index.html
-del Create.bat HTML.txt
+del Create.bat HTML.txt README.md
 
